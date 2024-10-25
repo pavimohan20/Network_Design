@@ -21,7 +21,7 @@ The network is divided into four sectors, each with specific IP addressing, VLAN
 - **Management (VLAN 10)**: 5 workstations  
 - **Study (VLAN 20)**: 8 workstations  
 - **Production (VLAN 30)**: 10 workstations  
-- **Support (VLAN 40 & 50)**: 10 workstations in each support sector  
+- **Support (VLAN 40 & 41)**: 10 workstations in each support sector  
 
 #### **Switches and VLANs:**
 - **Switch4** connects to all sector switches (VLANs 10, 20, 30, 40, 41) and handles the pathway for VLAN 50 (server VLAN). 
